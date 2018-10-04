@@ -1,6 +1,4 @@
 
-
-
 package enlace.netbeans;
 
 public class EnlaceNetbeans {
